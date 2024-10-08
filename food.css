@@ -1,5 +1,5 @@
 nav{
-    background-color: goldenrod;
+    background-color: goldenrod !important;
     position: fixed;
     width: 100%;
     top: 0px;
